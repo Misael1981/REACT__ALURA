@@ -17,4 +17,16 @@
 
 - ### [Prettier](./Materia-Estudo/prettier.md)
 
+- ### [Criando Scripts para Automatizar o Processo](./Materia-Estudo/criandoScripts.md)
+
+- ### [Diferança entre fetch() e axio](./Materia-Estudo/fetch__axio.md)
+
+- ### [Vite](./Materia-Estudo/vite.md)
+
+- ### [Sobre a Instalação do Vite](./Materia-Estudo/instalacaoVite.md)
+
+- ### [Importando Arquivos como Módulos](./Materia-Estudo/importandoArquivosComoModulos.md)
+
+- ### [Conteúdos sobre Vite](./Materia-Estudo/conteudosSobreVite.md)
+
 ### [Voltar ao MENU - React: desenvolva aplicações web usando JSX e Hooks](../menu.md)
