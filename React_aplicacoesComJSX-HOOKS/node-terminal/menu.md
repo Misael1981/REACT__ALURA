@@ -29,4 +29,8 @@
 
 - ### [Conteúdos sobre Vite](./Materia-Estudo/conteudosSobreVite.md)
 
+- ### [Gists do GitHub](./Materia-Estudo/gistsDoGithub.md)
+
+- ### [Escalando as Variáveis de Ambiente](./Materia-Estudo/escalandoVariaveisDeAmbiente.md)
+
 ### [Voltar ao MENU - React: desenvolva aplicações web usando JSX e Hooks](../menu.md)
