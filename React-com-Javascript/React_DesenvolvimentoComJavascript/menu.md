@@ -4,4 +4,6 @@
 
 - ### [React - um framework reativo](./Material-Estudo/reatividade-React.md)
 
+- ### [Dominando children no React](./Material-Estudo/children.md)
+
 ### [Voltar ao Menu - Explore React com JavaScript](../menu.md)
