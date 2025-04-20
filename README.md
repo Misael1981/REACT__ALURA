@@ -11,14 +11,13 @@
   <img alt="Misael-CSS" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-
 ## 📚 Formações
 
 - ### [React: desenvolva aplicações web usando JSX e Hooks](./React_aplicacoesComJSX-HOOKS/menu.md)
 
+- ### [Explore React com JavaScript](./React-com-Javascript/menu.md)
+
 ## 🗂️ Projetos da Formação
-
-
 
 <h2> 📞 Contato</h2>
 <div> 
