@@ -6,6 +6,12 @@
 
 - ### [React Icons](./Material-Estudo/react-icons.md)
 
-- ### [exporte export default](./Material-Estudo/export-exportDefault.md)
+- ### [export e export default](./Material-Estudo/export-exportDefault.md)
+
+- ### [Virtual DOM](./Material-Estudo/virtualDOM.md)
+
+- ### [Alternativas para passar parâmetros](./Material-Estudo/alternativasParaParametros.md)
+
+- ### [Renderização condicional](./Material-Estudo/RenderizacaoCondicional.md)
 
 ### [Voltar ao Menu - Explore React com JavaScript](../menu.md)
