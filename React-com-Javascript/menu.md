@@ -6,4 +6,6 @@ Aprenda a criar interfaces do usuário com React, um dos frameworks JavaScript m
 
 - ### [Curso - React: como os componentes funcionam](./ComoComponentesFuncionam/menu.md)
 
+- ### [Curso - React: desenvolvendo em React Router com JavaScript](./DesenvolvendoComReactRouter/menu.md)
+
 ### [Voltar ao README Principal](../README.md)
